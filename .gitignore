@@ -1,0 +1,24 @@
+# Visual Basic 6 — build outputs and IDE noise
+*.exe
+!bin/
+!bin/Clix.exe
+*.log
+*.vbw
+*.obj
+*.lib
+*.exp
+*.sbr
+*.ilk
+*.pdb
+*.tmp
+*.bak
+*~
+
+# Binary form resource companions (none in this repo yet; safe if you add pictures)
+*.frx
+*.ctx
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
