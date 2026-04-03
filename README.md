@@ -1,3 +1,11 @@
+## 📖 From VB6 to AI — The Story Behind This Project
+
+This game was originally built as a hobby project years ago.
+
+It’s part of a bigger story about building software before modern tools, AI, and instant answers.
+
+👉 [Read the full story](https://dev.to/mili_hunjic_70cb2c5dd0e49/are-we-still-engineers-or-just-tool-operators-43m9)
+
 # Clix
 
 A **Visual Basic 6** desktop clone of **Jawbreaker**, the SameGame-style puzzle bundled with Windows Mobile 2003 (also known as *Bubble Breaker* on later releases). Gameplay reference: [Jawbreaker (Windows Mobile game) — Wikipedia](https://en.wikipedia.org/wiki/Jawbreaker_(Windows_Mobile_game)).
